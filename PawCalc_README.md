@@ -14,7 +14,7 @@ The motivation for building this app was to learn Jetpack Compose while using cl
 ## Android Development
 PawCalc is fully written in Kotlin with UI layer written in Jetpack Compose.
 
-The followign frameworks are used: 
+The following frameworks are used: 
 - Dependency Injection: Dagger Hilt
 - Database: Room
 - Navigation: Navigation-Compose
@@ -22,7 +22,7 @@ The followign frameworks are used:
 - Design: Material 2
 - Other Jetpack libraries include: CameraX, DataStore
 
-Future releases will include support for Landscape mode, Material3, and eventually migrate business logic to KMM for an iOS app.
+Future releases will include support for Landscape mode, Material 3, and eventually migrate business logic to KMM for an iOS app.
 
 ## Demo
 
