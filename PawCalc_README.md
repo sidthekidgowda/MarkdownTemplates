@@ -26,7 +26,7 @@ The following frameworks are used:
 Future releases will include support for Landscape mode, Material 3, and eventually migrate business logic to KMM for an iOS app.
 
 ## Screenshots
-<img src="docs/details.png" width="300"> <img src="docs/edit.png" width="300">
+<img src="docs/details.png" width="300"> <img src="docs/edit.png" width="300"> <img src="docs/dogs.png" width="300"> <img src="docs/settings.png" width="300"> <img src="docs/media.png" width="300">
 
 ## Demo
 
