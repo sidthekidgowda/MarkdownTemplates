@@ -6,7 +6,6 @@
 
 # PawCalc
 
-
 PawCalc is an app that calculates how old a dog is in human years to the months and days as well.
 It calculates how old a dog is by using the ratio of 1 dog year = 7 human years.
 
